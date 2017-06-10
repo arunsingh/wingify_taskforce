@@ -1,9 +1,9 @@
 {
-  "name": "veeru-openresty",
+  "name": "wingify_taskforce",
   "version": "0.1.0",
-  "author": "Veeru Sharma",
+  "author": "Arun Singh",
   "summary": "Created to install Openresty with custom module wingify",
-  "license": "Apache 2.0",
+  "license": "MIT License",
   "source": "",
   "project_page": null,
   "issues_url": null,
