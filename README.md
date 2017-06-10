@@ -14,7 +14,9 @@
 * It will install following modules:
 
 *HTTP SSL
+
 *Lua JIT
+
 *PCRE and PCRE JIT
 
 <b>How to run</b><br>
